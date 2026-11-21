@@ -19,5 +19,6 @@ Este dashboard consolida dados de pedidos e transportadoras para extrair insight
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/SEU_USUARIO/dashboard-logistica.git](https://github.com/SEU_USUARIO/dashboard-logistica.git)
+git clone [https://github.com/FernandoLouzada17/dashboard-logistica.git](https://github.com/FernandoLouzada17/dashboard-logistica.git)
 cd dashboard-logistica
+```
