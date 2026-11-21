@@ -1,5 +1,7 @@
 # 📦 Dashboard Interativo de KPIs de Supply Chain
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-logistica-djp9xkrs3wtarnssbv8ekv.streamlit.app/)
+
 Este projeto é um painel interativo (Dashboard) desenvolvido em Python e SQL para monitorar indicadores críticos de logística, focado em identificar gargalos na distribuição e analisar custos de frete.
 
 ## 🎯 O Problema Resolvido
